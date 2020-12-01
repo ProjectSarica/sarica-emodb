@@ -1,3 +1,9 @@
 {
-    "java.configuration.updateBuildConfiguration": "automatic"
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    ".git": true,
+    ".classpath": true,
+    ".project": true,
+    "target": true
+  }
 }
